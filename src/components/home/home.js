@@ -32,7 +32,7 @@ const Home = () => (
 
         {/* Passando os parâmetros title, company, description e avatar para o component Experience */}
         <Experience title="Pedro Braga"
-                    company="Medgrupo"
+                    company="Freelancer"
                     description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut laborevoluptate velit esse cillum dolore eu fugiat id est laborum."
                     avatar={company_avatar}
         />
