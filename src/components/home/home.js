@@ -20,11 +20,11 @@ const Home = () => (
         <h5 className="subtitle">Sobre mim</h5>
         <Card>
           <div>
-            <p><b>Lorem</b></p>
-            <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut laborevoluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+            <p><b>Entusiasta</b></p>
+            <p>"Gosto de absorver novos conhecimentos sempre que possível. Então me mantenho sempre atualizado nas novas tendências do mercado. Aficcionado por tecnologia de todas as formas, desde Internet das Coisas até computadores de válvulas. O importante é se manter aprendendo em progressão sempre."</p>
             <br/>
-            <p><b>Ipsum</b></p>
-            <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut laborevoluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+            <p><b>Incansável</b></p>
+            <p>"O problema de escrever sobre mim mesmo é que sempre parece que to puxando sardinha. Mas a realidade é que problemas não são obstáculos permanentes pra mim, às vezes me travam mas eventualmente chegam ao fim e consigo um desfecho."</p>
           </div>
         </Card>
         <h5 className="subtitle">Experiência</h5>
@@ -33,12 +33,12 @@ const Home = () => (
         {/* Passando os parâmetros title, company, description e avatar para o component Experience */}
         <Experience title="Pedro Braga"
                     company="Freelancer"
-                    description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut laborevoluptate velit esse cillum dolore eu fugiat id est laborum."
+                    description="Como estou a um tempo fora do mercado formal me mantive atualizado fazendo pequenos serviços freelancers ora aqui outra ali. E em variadas linguagens também. Estou constamente fornecendo novos materias no meu Github. Vale a pena dar uma olhada."
                     avatar={company_avatar}
         />
         <Experience title="Estagiário de Desenvolvimento"
                     company="MEDGRUPO"
-                    description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut laborevoluptate velit esse cillum dolore eu fugiat id est laborum."
+                    description="Auxiliva os times de desenvolvimento com as tarefas e rotinas do dia a dia. Com soluções de problemas e até implementação de um projeto. Majoritariamente em NodeJS, ExpressJS, MongoDB, .NET, SQL, HTML5, CSS3, PureJS, Angular e ReactJS"
                     avatar={company_avatar2}                    
         /> 
     </Col>

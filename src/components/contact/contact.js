@@ -22,14 +22,14 @@ const Contact = () => (
               <Input placeholder="Assunto" label="Mensagem" s={12} />
             <Col s={8} m={8}> 
               <tr>
-              <td><a href="https://www.facebook.com/pedrohenrique.teixeirabraga"><img src={faceicone} class="img-circle" alt="Responsive Image" width="40" height="40"/></a></td>
-              <td><a href="https://www.instagram.com/tbpedrinho"><img src={instaicone} class="img-circle" alt="Responsive Image" width="40" height="40"/></a></td>
-              <td><a href="http://api.whatsapp.com/send?1=pt_BR&phone=5521972806876"><img src={wppicone} class="img-circle" alt="Responsive Image" width="40" height="40"/></a></td>
-              <td><a href="https://github.com/tbpedrinho"><img src={giticon} class="img-circle" alt="Responsive Image" width="40" height="40"/></a></td>
+              <td><a href="https://www.facebook.com/pedrohenrique.teixeirabraga"><img src={faceicone} class="img-circle" alt="Responsive" width="40" height="40"/></a></td>
+              <td><a href="https://www.instagram.com/tbpedrinho"><img src={instaicone} class="img-circle" alt="Responsive" width="40" height="40"/></a></td>
+              <td><a href="http://api.whatsapp.com/send?1=pt_BR&phone=5521972806876"><img src={wppicone} class="img-circle" alt="Responsive" width="40" height="40"/></a></td>
+              <td><a href="https://github.com/tbpedrinho"><img src={giticon} class="img-circle" alt="Responsive" width="40" height="40"/></a></td>
               </tr>
             </Col>
             <Col s={1} m={1}>
-            <th><Button waves='light' className="right grey darken-2">SEND</Button></th>
+            <th><Button waves='light' className="right grey darken-2">Enviar</Button></th>
             </Col>
           </Row>
         </Card>
