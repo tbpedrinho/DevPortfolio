@@ -1,3 +1,5 @@
+/* eslint-disable react/jsx-no-duplicate-props */
+/* eslint-disable jsx-a11y/alt-text */
 // Importando o React
 import React from "react";
 // Importando os components necessários da lib react-materialize
@@ -11,7 +13,6 @@ const Experience = (props) => (
           <img src={props.avatar} className="circle responsive-img" />
           { props.name }
         </Col>
-
         <Col s={10} s={10}>
           <p><b>{props.title} em <span className="grey darken-2 white-text">{props.company}</span></b></p>
           <p>{props.description}</p>
