@@ -21,7 +21,7 @@ const Home = () => (
         <Card>
           <div>
             <p><b>Entusiasta</b></p>
-            <p>"Gosto de absorver novos conhecimentos sempre que possível. Então me mantenho sempre atualizado nas novas tendências do mercado. Aficcionado por tecnologia de todas as formas, desde Internet das Coisas até computadores de válvulas. O importante é se manter aprendendo em progressão sempre."</p>
+            <p>"Gosto de absorver novos conhecimentos sempre que possível. Então me mantenho sempre atualizado nas novas tendências do mercado. Aficcionado por tecnologia de todas as formas, desde a história da programação em cartões até BioProgramação. O importante é se manter aprendendo em progressão sempre."</p>
             <br/>
             <p><b>Incansável</b></p>
             <p>"O problema de escrever sobre mim mesmo é que sempre parece que to puxando sardinha. Mas a realidade é que problemas não são obstáculos permanentes pra mim, às vezes me travam mas eventualmente chegam ao fim e consigo um desfecho."</p>
